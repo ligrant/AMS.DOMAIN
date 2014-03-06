@@ -9,6 +9,10 @@ namespace AMS.Domain
     public class Class1
     {
         public int id { get; set; }
-        Console.WriteLine("Hello");
+
+        public void Test()
+        {
+            Console.WriteLine("Hello");
+        }
     }
 }
