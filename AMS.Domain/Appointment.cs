@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace AMS.Domain
 {
-    public class Class1
+    class Appointment
     {
-        public int id { get; set; }
-
-        public void Test()
-        {
-            Console.WriteLine("Hello");
-        }
     }
 }
