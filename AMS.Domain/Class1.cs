@@ -8,5 +8,6 @@ namespace AMS.Domain
 {
     public class Class1
     {
+        Console.WriteLine("Hello");
     }
 }
